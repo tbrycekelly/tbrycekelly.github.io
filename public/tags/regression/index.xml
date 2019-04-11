@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on A Hugo website</title>
+    <link>/tags/regression/</link>
+    <description>Recent content in regression on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TAPPE_CCE Nitrate Temperature Relationship</title>
+      <link>/2019/04/11/tappe_cce-nitrate-temperature-relationship/</link>
+      <pubDate>Thu, 11 Apr 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/2019/04/11/tappe_cce-nitrate-temperature-relationship/</guid>
+      <description>source(&#39;source.r&#39;) source(&#39;source.maps.r&#39;) source(&#39;source.physics.r&#39;)  data = read.xlsx(&#39;../Data/CalCOFI Nitrate.xlsx&#39;) str(data)  &#39;data.frame&#39;: 342041 obs. of 19 variables: $ studyName : chr &amp;quot;1959-08-13-C-31HS&amp;quot; &amp;quot;1959-08-13-C-31HS&amp;quot; &amp;quot;1959-08-13-C-31HS&amp;quot; &amp;quot;1959-08-13-C-31HS&amp;quot; ... $ Cast : num 11129 11129 11129 11129 11129 ... $ Bottle : num 291243 291245 291248 291252 291254 ... $ Stn : chr &amp;quot;096.7 032.0&amp;quot; &amp;quot;096.7 032.0&amp;quot; &amp;quot;096.7 032.0&amp;quot; &amp;quot;096.7 032.0&amp;quot; ... $ Depth : num 374 400 407 462 468 500 523 0 1 10 .</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
